@@ -1,0 +1,17 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+.hide{
+    display: none;
+}
+.result{
+    margin: 20px 0;
+}
+.action{
+    display: none;
+    border: 1px solid#000;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
